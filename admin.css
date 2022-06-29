@@ -1,0 +1,19 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid black;
+    text-align: center;
+    padding: 1000px;
+}
+
+  tr td  {
+      border: 1px solid black;
+      border-collapse: collapse;
+      padding: 2px;
+  }
+  #wp:hover{
+      width: 20%;
+      
+
+  }
